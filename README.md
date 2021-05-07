@@ -1,4 +1,4 @@
-![alt text](https://github.com/bmx-routing/MNP/blob/a2a361eb994879371d13551a65496ed779ca0c44/doc/images/MNP.png "MNP Logo")
+# MNP
 
 MNP is a mesh routing protocol for Linux based operating systems.
 The academic paper with more theoretical details can be found [here](http://dsg.ac.upc.edu/node/843).
